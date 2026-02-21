@@ -26,7 +26,11 @@ This repository contains detailed write-ups from various CTF competitions and cy
 ---
 
 ### 🟠 PortSwigger Labs
-> 🚧 Coming Soon...
+
+#### Web Security Academy
+| Challenge | Category | Writeup |
+|-----------|----------|---------|
+| File path traversal, simple case | Directory Traversal | [📝 Writeup](PortSwigger_Labs/File%20path%20traversal,%20simple%20case/File_path_traversal.md) |
 
 ---
 
@@ -36,7 +40,7 @@ This repository contains detailed write-ups from various CTF competitions and cy
 |----------|----------|--------|
 | PicoCTF | Web Exploitation | 2 |
 | PicoCTF | Cryptography | 0 |
-| PortSwigger | Labs | 0 |
+| PortSwigger | Web Security Academy | 1 |
 
 ---
 
@@ -60,6 +64,7 @@ My_CTF_Writeup/
 │       ├── login/
 │       └── MatchTheRegex/
 ├── PortSwigger_Labs/
+│   └── File path traversal, simple case/
 ├── LICENSE
 └── README.md
 ```
