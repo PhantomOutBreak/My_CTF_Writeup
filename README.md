@@ -34,13 +34,22 @@ This repository contains detailed write-ups from various CTF competitions and cy
 
 ---
 
+### 🔵 STDiOCTF 2025
+
+| Challenge | Category | Writeup |
+|-----------|----------|---------|
+| CLOUD 🍰 Ghost in the Bucket | Misc | [📝 Writeup](STDiOCTF-2025/CLOUD%20Ghost%20in%20the%20Bucket(Misc)/CLOUD_Ghost_in_the_Bucket(Misc).md) |
+| Valaheadvala (Reverse) | Reverse | [📝 Writeup](STDiOCTF-2025/Valaheadvala(Reverse)/Valaheadvala(Reverse).md) |
+
+---
+
 ## 📊 Progress
 
-| Platform | Category | Solved |
-|----------|----------|--------|
-| PicoCTF | Web Exploitation | 2 |
-| PicoCTF | Cryptography | 0 |
-| PortSwigger | Web Security Academy | 1 |
+| Platform | Solved |
+|----------|--------|
+| PicoCTF | 2 |
+| PortSwigger | 1 |
+| STDiOCTF 2025 | 2 |
 
 ---
 
@@ -65,6 +74,9 @@ My_CTF_Writeup/
 │       └── MatchTheRegex/
 ├── PortSwigger_Labs/
 │   └── File path traversal, simple case/
+├── STDiOCTF-2025/
+│   ├── CLOUD Ghost in the Bucket(Misc)/
+│   └── Valaheadvala(Reverse)/
 ├── LICENSE
 └── README.md
 ```
