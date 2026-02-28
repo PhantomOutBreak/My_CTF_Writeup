@@ -1,4 +1,4 @@
-# 🚩 My CTF Writeup
+# 🚩 CTF_Write_Ups_Collection
 
 > A personal collection of Capture The Flag (CTF) write-ups — documenting my journey of breaking, learning, and understanding cybersecurity challenges.
 
