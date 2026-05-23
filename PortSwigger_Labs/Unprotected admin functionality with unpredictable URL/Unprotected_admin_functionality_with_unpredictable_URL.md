@@ -45,8 +45,3 @@ Solve the lab by accessing the admin panel, and using it to delete the user `car
 ## Summary
 
 โจทย์ข้อนี้ต่อยอดจากข้อ "Unprotected admin functionality" โดยครั้งนี้ Developer พยายามใช้ URL ที่คาดเดาไม่ได้ (`/admin-mrj3fy`) แทน URL ทั่วไปอย่าง `/admin` แต่กลับ **เปิดเผย Path ไว้ใน JavaScript บนหน้าเว็บ** ซึ่งเป็นช่องโหว่ประเภท **Information Disclosure via Client-side Code**
-
-**บทเรียนที่ได้:**
-- **Client-side Code ไม่ใช่ที่ซ่อนความลับ** — ไม่ว่าจะตั้งค่า `isAdmin = false` หรือซ่อน Logic ไว้อย่างไร ผู้ใช้ทุกคนสามารถอ่าน Source Code ฝั่ง Client ได้เสมอ
-- **Security through Obscurity ไม่ใช่ทางออก** — การเปลี่ยนชื่อ URL ให้คาดเดายาก ไม่ได้ป้องกันการเข้าถึงจริง
-- **ต้องมี Authentication & Authorization** — หน้า Admin ทุกหน้าต้องบังคับให้ Login และตรวจสอบว่าผู้ใช้มีสิทธิ์ระดับ Admin จริงหรือไม่ ก่อนอนุญาตให้ใช้งาน

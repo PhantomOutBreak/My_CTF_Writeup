@@ -33,6 +33,7 @@ This repository contains detailed write-ups from various CTF competitions and cy
 | File path traversal, simple case | Directory Traversal | [📝 Writeup](PortSwigger_Labs/File%20path%20traversal,%20simple%20case/File_path_traversal.md) |
 | Unprotected admin functionality | Access Control | [📝 Writeup](PortSwigger_Labs/Unprotected%20admin%20functionality/Unprotected_admin_functionality.md) |
 | Unprotected admin functionality with unpredictable URL | Access Control | [📝 Writeup](PortSwigger_Labs/Unprotected%20admin%20functionality%20with%20unpredictable%20URL/Unprotected_admin_functionality_with_unpredictable_URL.md) |
+| User role controlled by request parameter | Access Control | [📝 Writeup](PortSwigger_Labs/User%20role%20controlled%20by%20request%20parameter/User_role_controlled_by_request_parameter.md) |
 
 ---
 
@@ -50,7 +51,7 @@ This repository contains detailed write-ups from various CTF competitions and cy
 | Platform | Solved |
 |----------|--------|
 | PicoCTF | 2 |
-| PortSwigger | 3 |
+| PortSwigger | 4 |
 | STDiOCTF 2025 | 2 |
 
 ---
@@ -77,7 +78,8 @@ My_CTF_Writeup/
 ├── PortSwigger_Labs/
 │   ├── File path traversal, simple case/
 │   ├── Unprotected admin functionality/
-│   └── Unprotected admin functionality with unpredictable URL/
+│   ├── Unprotected admin functionality with unpredictable URL/
+│   └── User role controlled by request parameter/
 ├── STDiOCTF-2025/
 │   ├── CLOUD Ghost in the Bucket(Misc)/
 │   └── Valaheadvala(Reverse)/
